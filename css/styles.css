@@ -11,7 +11,7 @@ body {
     }
   .main-image {
         width: 500px;
-        border: 10px inset;
+        border: 5 px inset;
       }
       .resize main-image{
         width: 200px;
@@ -26,7 +26,7 @@ body {
     }
     .INFO {
       background-color: white;
-      border-radius: 10px;
+      border-radius: 5px;
       border-style:inset;
     }
   
