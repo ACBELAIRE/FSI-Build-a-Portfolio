@@ -22,3 +22,9 @@ body {
       color: black;
       font-style: italic;
     }
+
+     #topic {
+        color: black;
+        background-color: white;
+     }
+     
