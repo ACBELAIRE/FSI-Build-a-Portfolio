@@ -2,22 +2,6 @@ body {
     background-color: #f7ddef;  
     }   
 
-    .p1 {
-      font-family: "Times New Roman" ;
-    }
-    
-    .p2 {
-      font-family: "Helvetica";
-    }
-    
-    .p3 {
-      font-family: "Lucida Console";
-    }
-
-    .p4 {
-      font-family: "Lucida Handwriting";
-    }
-
   .main-image {
     float: left;
     width: 300px;
@@ -30,4 +14,11 @@ body {
       .resize main-image{
         width: 200px;
         height: auto;
-        }
+
+      }
+      p{
+      font-family: cursive;
+      font size: 20 px;
+      color: mediumblue;
+      font-style: italic;
+    }
