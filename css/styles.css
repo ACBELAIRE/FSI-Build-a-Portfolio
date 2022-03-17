@@ -1,6 +1,9 @@
 body {
     background-color: #f7ddef;
   }
+  div {
+    background-image: url("ju.jpg");
+ } 
 
   .main-image {
     float: left;
