@@ -26,8 +26,11 @@ body {
     }
     .INFO {
       background-color: white;
+      border-radius: 10px;
+      border-style:inset;
     }
   
+    }
 
      #topic {
         color: black;
