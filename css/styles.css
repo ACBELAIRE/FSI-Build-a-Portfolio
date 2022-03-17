@@ -2,3 +2,8 @@ body {
     background-color: #f7ddef;
   }
 
+  .main-image {
+    float: left;
+    width: 400px;
+    margin: 0 1rem 1rem 0;
+    }
