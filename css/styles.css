@@ -1,5 +1,7 @@
 body {
     background-color: #f7ddef;  
+    cursor: url('https://pngimg.com/uploads/heart/heart_PNG51328.png'), url('https://pngimg.com/uploads/heart/heart_PNG51352.png'), 
+    auto;
 }
 
   .main-image {
@@ -40,13 +42,8 @@ body {
        font-size: 30px;
        font-family:fantasy;
      }
-     <title> Wrap an image with text</title>
-     <style>
 
     .linkimage{
-      float: right;
-      width: 500px;
-      margin: 0 1rem 1rem 0;
       border-radius: 100px ;
       border-style: solid;
     }
@@ -59,7 +56,7 @@ body {
        color: brown;
        font-size: 30 px;
        text-align: left;
-       </style>
+       
      }
 
 
@@ -80,17 +77,8 @@ body {
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      }
      .linkimage2{
-      width: 700px;
-      height: 500px;
-      border-radius: 50%;
-      text-align: center;
-      font-size: 30px;
-      float: left;
-      font-weight: bold;
+      border-radius: 100px ;
+    border-style: solid;
      }
    
-     body {
-      cursor: url('https://pngimg.com/uploads/heart/heart_PNG51328.png'), url('https://pngimg.com/uploads/heart/heart_PNG51352.png'), 
-       auto;
-    }
 
