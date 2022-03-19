@@ -25,14 +25,14 @@ body{
        background-color: black;
        border-radius: 10;
        border-style: dotted;
-       border-color: white
+       border-color: white;
        font-family: cursive;
        font size: 30 px;
        color: white;
        font-style: italic;
        text-align: center;
      }
-     
+
      .Myprojects {
        text-align: left ;
        font-size: 30px;
