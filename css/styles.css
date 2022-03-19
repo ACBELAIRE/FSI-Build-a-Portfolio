@@ -1,9 +1,6 @@
 body {
     background-color: #f7ddef;  
     }   
-body{
-      cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg), auto;
-    }
   .main-image {
     float: left;
     width: 500px;
@@ -35,6 +32,9 @@ body{
        color: white;
        font-style: italic;
        text-align: center;
+      cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg), auto;
+      }
+      
      }
 
      .Myprojects {
@@ -47,7 +47,7 @@ body{
        background-color: black;
        border-radius: 10;
        border-style: dotted;
-       border-color: white;
+       border-color: rgb(133, 224, 252);
        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
        color: brown;
        font-size: 30 px;
@@ -65,7 +65,7 @@ body{
       border-radius: 10;
       border-style: dotted;
       border-color: yellow;
-      color: white;
+      color: yellow;
       font-size: 30 px;
       text-align: right;
      }
