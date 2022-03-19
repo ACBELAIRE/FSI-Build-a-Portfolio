@@ -1,6 +1,5 @@
 body {
     background-color: #f7ddef;  
-    body {
     cursor: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg'),auto;
   }
   .main-image {
@@ -15,11 +14,10 @@ body {
         color: rgb(255, 255, 255);
         background-color: rgb(3, 3, 3);
      }
-
-     p.{
-      color: rgb(255, 255, 255);
-      background-color: rgb(3, 3, 3);
-   }
+     # {
+       color:rgb(255, 255, 255);
+       background-color:rgb(3, 3, 3);
+     }
      .aboutme {
        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
        font-size: 60;
