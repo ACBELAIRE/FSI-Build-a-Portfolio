@@ -22,7 +22,7 @@ body{
      }
      .aboutme {
        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-       font-size: 30;
+       font-size: 60;
       }
 
      .INFO {
@@ -40,7 +40,7 @@ body{
      .Myprojects {
        text-align: left;
        font-size: 30px;
-       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-family:fantasy;
      }
     
      .unorderlist {
@@ -57,7 +57,7 @@ body{
      .ContactMe {
        text-align: left;
        font-size: 30px;
-       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       font-family:monospace;
      }
 
      .contactinfo {
