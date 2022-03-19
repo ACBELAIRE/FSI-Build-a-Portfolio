@@ -49,7 +49,7 @@ body{
        border-style: dotted;
        border-color: white;
        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-       color: white;
+       color: brown;
        font-size: 30 px;
        text-align: left;
      }
@@ -64,7 +64,7 @@ body{
       background-color: black;
       border-radius: 10;
       border-style: dotted;
-      border-color: white;
+      border-color: yellow;
       color: white;
       font-size: 30 px;
       text-align: right;
