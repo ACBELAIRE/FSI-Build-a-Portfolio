@@ -11,7 +11,7 @@ body{
     }
   .main-image {
         width: 500px;
-        border: 100 px inset;
+        border: 250 px inset;
       }
       .resize main-image{
         width: 200px;
