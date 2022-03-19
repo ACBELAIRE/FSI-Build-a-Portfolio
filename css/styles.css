@@ -20,7 +20,11 @@ body{
        color:rgb(255, 255, 255);
        background-color:rgb(3, 3, 3);
      }
-
+     .aboutme {
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 30;
+      }
+      
      .INFO {
        background-color: black;
        border-radius: 10;
