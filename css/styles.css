@@ -40,6 +40,9 @@ body {
        font-size: 30px;
        font-family:fantasy;
      }
+     <title> Wrap an image with text</title>
+     <style>
+
     .linkimage{
       float: right;
       width: 500px;
@@ -56,6 +59,7 @@ body {
        color: brown;
        font-size: 30 px;
        text-align: left;
+       </style>
      }
 
 
