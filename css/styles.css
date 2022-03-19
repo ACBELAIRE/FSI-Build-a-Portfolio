@@ -17,6 +17,7 @@ body{
       font size: 30 px;
       color: white;
       font-style: italic;
+      text-align: center;
     }
   
      #topic {
@@ -27,6 +28,7 @@ body{
      .INFO {
        background-color: black;
        border-radius: 10;
+       border-style: dotted;
      }
   
    
