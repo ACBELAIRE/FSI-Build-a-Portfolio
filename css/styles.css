@@ -1,6 +1,7 @@
 body {
     background-color: #f7ddef;  
-    cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg),auto;
+    body {
+    cursor: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg'),auto;
   }
   .main-image {
     float: left;
