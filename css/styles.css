@@ -40,7 +40,13 @@ body {
        font-size: 30px;
        font-family:fantasy;
      }
-    
+    .linkimage{
+      float: right;
+      width: 500px;
+      margin: 0 1rem 1rem 0;
+      border-radius: 100px ;
+      border-style: solid;
+    }
      .unorderlist {
        background-color: gold;
        border-radius: 10;
@@ -51,6 +57,7 @@ body {
        font-size: 30 px;
        text-align: left;
      }
+
 
      .ContactMe {
        text-align: right;
@@ -68,8 +75,16 @@ body {
       text-align: right;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      }
+     .linkimage2{
+      float: right;
+      width: 500px;
+      margin: 0 1rem 1rem 0;
+      border-radius: 100px ;
+      border-style: solid;
+     }
    
      body {
       cursor: url('https://pngimg.com/uploads/heart/heart_PNG51328.png'), url('https://pngimg.com/uploads/heart/heart_PNG51352.png'), 
        auto;
     }
+
