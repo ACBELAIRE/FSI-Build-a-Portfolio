@@ -2,8 +2,6 @@ body {
     background-color: #f7ddef;  
 }
 
-   body{cursor: url('https://pngimg.com/uploads/heart/heart_PNG51352.png'),auto;
-  }
   .main-image {
     float: left;
     width: 500px;
@@ -44,7 +42,7 @@ body {
      }
     
      .unorderlist {
-       background-color: black;
+       background-color: white;
        border-radius: 10;
        border-style: dotted;
        border-color: rgb(133, 224, 252);
