@@ -11,11 +11,9 @@ body{
     }
   .main-image {
         width: 500px;
-        border: 250 px inset;
+        border: 400 px inset;
       }
-      .resize main-image{
-        width: 200px;
-        height: auto;
+    
       }
       p{
       font-family: cursive;
