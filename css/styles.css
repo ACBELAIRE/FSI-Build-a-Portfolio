@@ -21,10 +21,10 @@ body{
        background-color:rgb(3, 3, 3);
      }
      .aboutme {
-       font-family: 'Times New Roman', Times, serif;
+       font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
        font-size: 30;
       }
-      
+
      .INFO {
        background-color: black;
        border-radius: 10;
@@ -38,8 +38,9 @@ body{
      }
 
      .Myprojects {
-       text-align: left ;
+       text-align: left;
        font-size: 30px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
      }
     
      .unorderlist {
@@ -56,6 +57,7 @@ body{
      .ContactMe {
        text-align: left;
        font-size: 30px;
+       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      }
 
      .contactinfo {
