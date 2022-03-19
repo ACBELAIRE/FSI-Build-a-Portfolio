@@ -1,8 +1,9 @@
 body {
     background-color: #f7ddef;  
-    body {
-      cursor: url('https://pngimg.com/uploads/heart/heart_PNG51352.png'),auto;
-    }
+}
+
+   body{cursor: url('https://pngimg.com/uploads/heart/heart_PNG51352.png'),auto;
+  }
   .main-image {
     float: left;
     width: 500px;
