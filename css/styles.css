@@ -1,6 +1,7 @@
 body {
     background-color: #f7ddef;  
-    }   
+    cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg),auto;
+  }
   .main-image {
     float: left;
     width: 500px;
@@ -13,10 +14,7 @@ body {
         color: rgb(255, 255, 255);
         background-color: rgb(3, 3, 3);
      }
-     # {
-       color:rgb(255, 255, 255);
-       background-color:rgb(3, 3, 3);
-     }
+
      .aboutme {
        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
        font-size: 60;
@@ -28,14 +26,11 @@ body {
        border-style: dotted;
        border-color: white;
        font-family: cursive;
-       font size: 30 px;
+       font-size: 30 px;
        color: white;
        font-style: italic;
        text-align: center;
-      cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.svg), auto;
       }
-      
-     }
 
      .Myprojects {
        text-align: left;
