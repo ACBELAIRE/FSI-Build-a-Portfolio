@@ -55,7 +55,7 @@ body{
      }
 
      .ContactMe {
-       text-align: left;
+       text-align: right;
        font-size: 30px;
        font-family:monospace;
      }
@@ -67,6 +67,6 @@ body{
       border-color: white;
       color: white;
       font-size: 30 px;
-      text-align: left;
+      text-align: right;
      }
    
