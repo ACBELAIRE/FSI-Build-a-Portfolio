@@ -51,6 +51,11 @@ body{
        text-align: left;
      }
 
+     .ContactMe {
+       text-align: left;
+       font-size: 30px;
+     }
+     
      .contactinfo {
       background-color: black;
       border-radius: 10;
