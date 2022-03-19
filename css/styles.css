@@ -15,7 +15,7 @@ body{
       p{
       font-family: cursive;
       font size: 30 px;
-      color: black;
+      color: white;
       font-style: italic;
     }
   
@@ -23,14 +23,10 @@ body{
         color: rgb(255, 255, 255);
         background-color: rgb(3, 3, 3);
      }
-     #INFO {
-      color: rgb(255, 255, 255);
-      background-color: rgb(3, 3, 3);
-   }
 
-   .INFO {
-     border: 3px gray;
-     text-align: center;
-     font-size:24px;
-   }
+     .INFO {
+       background-color: black;
+       border-radius: 10;
+     }
+  
    
